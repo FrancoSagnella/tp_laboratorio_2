@@ -143,7 +143,8 @@ namespace Entidades
         /// </returns>
         public static string DecimalBinario(double numero)
         {
-            int resultado = (int)numero;
+            int resultado = (int)(Math.Abs(numero));//Tomo el valor absoluto casteado como entero
+                                                    //Si llegase a ser negativo con el valor absoluto puedo operar igual
             string binario = "";
 
             if (resultado > 0)
@@ -164,10 +165,6 @@ namespace Entidades
             else if (resultado == 0)
             {
                 binario = "0";
-            }
-            else
-            {
-                binario = "Valor invalido";
             }
 
             return binario;
