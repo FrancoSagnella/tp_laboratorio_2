@@ -18,7 +18,9 @@ namespace Entidades
         private ETipo tipo;
 
         /// <summary>
-        /// Por defecto, TIPO será Monovolumen
+        /// Por defecto, TIPO será CuatroPuertas
+        /// inicializa el resto de parametros recibidos con
+        /// el constructor de la clase base
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
@@ -36,6 +38,7 @@ namespace Entidades
 
         /// <summary>
         /// Los automoviles son medianos
+        /// Devuelve un valor de ETamanio mediano
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -44,7 +47,12 @@ namespace Entidades
                 return ETamanio.Mediano;
             }
         }
-
+        /// <summary>
+        /// Metodo sobreescrito de Vehiculo, muestra
+        /// toda la info de un vehiculo reutilizando 
+        /// el metodo de la clase base
+        /// </summary>
+        /// <returns>Cadena con toda la informacion de un vehiculo</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

@@ -11,6 +11,9 @@ namespace Entidades
     /// </summary>
     public abstract class Vehiculo
     {
+        /// <summary>
+        /// Enumerado que contiene las posibles marcas para los vehiculos
+        /// </summary>
         public enum EMarca
         {
             Chevrolet, 
@@ -21,6 +24,9 @@ namespace Entidades
             Honda, 
             HarleyDavidson
         }
+        /// <summary>
+        /// Enumerado con los posibles tamaños de los vehiculos
+        /// </summary>
         public enum ETamanio
         {
             Chico, 
@@ -31,6 +37,7 @@ namespace Entidades
         private string chasis;
         private ConsoleColor color;
         private EMarca marca;
+
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.chasis = chasis;
@@ -48,12 +55,17 @@ namespace Entidades
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Cadena con todos los datos del vehiculo</returns>
         public virtual string Mostrar()
         {
             return (string)this;
         }
 
+        /// <summary>
+        /// Castea un objeto Vehiculo a una cadena que contenga
+        /// su informacion
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
@@ -68,6 +80,7 @@ namespace Entidades
 
         /// <summary>
         /// Dos vehiculos son iguales si comparten el mismo chasis
+        /// Compara los chasis de los vehiculos recibidos
         /// </summary>
         /// <param name="v1"></param>
         /// <param name="v2"></param>
@@ -78,6 +91,7 @@ namespace Entidades
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
+        /// Compara los chasis de los vehiculos recibidos
         /// </summary>
         /// <param name="v1"></param>
         /// <param name="v2"></param>

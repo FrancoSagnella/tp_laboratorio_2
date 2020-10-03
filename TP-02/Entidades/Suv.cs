@@ -14,6 +14,7 @@ namespace Entidades
         }
         /// <summary>
         /// Las camionetas son grandes
+        /// Devuelve un valor de ETamanio grande
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -22,7 +23,12 @@ namespace Entidades
                 return ETamanio.Grande;
             }
         }
-
+        /// <summary>
+        /// Metodo sobreescrito de Vehiculo, muestra
+        /// toda la info de un vehiculo reutilizando 
+        /// el metodo de la clase base
+        /// </summary>
+        /// <returns>Cadena con toda la informacion de un vehiculo</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

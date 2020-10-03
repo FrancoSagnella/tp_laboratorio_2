@@ -15,6 +15,7 @@ namespace Entidades
 
         /// <summary>
         /// Las motos son chicas
+        /// Devuelve valor de ETamanio chico
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -23,6 +24,12 @@ namespace Entidades
                 return ETamanio.Chico;
             }
         }
+        /// <summary>
+        /// Metodo sobreescrito de Vehiculo, muestra
+        /// toda la info de un vehiculo reutilizando 
+        /// el metodo de la clase base
+        /// </summary>
+        /// <returns>Cadena con toda la informacion de un vehiculo</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

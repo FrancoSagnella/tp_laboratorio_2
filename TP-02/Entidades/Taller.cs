@@ -51,7 +51,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
-        /// <returns></returns>
+        /// <returns>Cadena con la informacion de todos los vehiculos</returns>
         public static string Listar(Taller taller, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
@@ -98,7 +98,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Objeto donde se agregará el elemento</param>
         /// <param name="vehiculo">Objeto a agregar</param>
-        /// <returns></returns>
+        /// <returns>La referencia al objeto taller</returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
         {
             bool aux = true;
@@ -125,7 +125,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Objeto donde se quitará el elemento</param>
         /// <param name="vehiculo">Objeto a quitar</param>
-        /// <returns></returns>
+        /// <returns>La referencia al objeto taller</returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
             foreach (Vehiculo v in taller.vehiculos)
