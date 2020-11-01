@@ -15,9 +15,9 @@ namespace Entidades
         private int espacioDisponible;
         public enum ETipo
         {
-            Ciclomotor, 
-            Sedan, 
-            SUV, 
+            Ciclomotor,
+            Sedan,
+            SUV,
             Todos
         }
 
@@ -26,7 +26,7 @@ namespace Entidades
         {
             this.vehiculos = new List<Vehiculo>();
         }
-        public Taller(int espacioDisponible):this()
+        public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
         }
@@ -64,19 +64,19 @@ namespace Entidades
                 {
                     case ETipo.Ciclomotor:
 
-                        if(v is Ciclomotor)
+                        if (v is Ciclomotor)
                             sb.AppendLine(v.Mostrar());
 
                         break;
                     case ETipo.Sedan:
 
-                        if(v is Sedan)
+                        if (v is Sedan)
                             sb.AppendLine(v.Mostrar());
 
                         break;
                     case ETipo.SUV:
 
-                        if(v is Suv)
+                        if (v is Suv)
                             sb.AppendLine(v.Mostrar());
 
                         break;
@@ -102,12 +102,12 @@ namespace Entidades
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
         {
             bool aux = true;
-            if(taller.espacioDisponible > taller.vehiculos.Count)
-            { 
+            if (taller.espacioDisponible > taller.vehiculos.Count)
+            {
                 foreach (Vehiculo v in taller.vehiculos)
                 {
                     if (v == vehiculo)
-                    {   
+                    {
                         aux = false;
                         break;
                     }
@@ -117,7 +117,7 @@ namespace Entidades
                     taller.vehiculos.Add(vehiculo);
                 }
             }
-            
+
             return taller;
         }
         /// <summary>
@@ -131,7 +131,7 @@ namespace Entidades
             foreach (Vehiculo v in taller.vehiculos)
             {
                 if (v == vehiculo)
-                {  
+                {
                     taller.vehiculos.RemoveAt(taller.vehiculos.IndexOf(v));
                     break;
                 }

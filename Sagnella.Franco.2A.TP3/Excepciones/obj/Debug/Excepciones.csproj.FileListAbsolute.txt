@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

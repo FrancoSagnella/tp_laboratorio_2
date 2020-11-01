@@ -1,0 +1,9 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,23 @@
+﻿Clases de PROGRAMACION dictadas por:
+Nombre Completo: Juarez, Roberto
+Nacionalidad: Argentino
+Legajo: 2
+Clases del dia: 
+Programacion
+SPD
+
+
+ALUMNOS:
+
+Nombre Completo: Lopez, Juan
+Nacionalidad: Argentino
+Legajo: 1
+Estado de la cuenta: Becado
+Toma clases de: Programacion
+
+Nombre Completo: Gonzalez, Carlos
+Nacionalidad: Argentino
+Legajo: 5
+Estado de la cuenta: AlDia
+Toma clases de: Programacion
+

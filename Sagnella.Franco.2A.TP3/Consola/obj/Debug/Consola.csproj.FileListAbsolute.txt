@@ -1,0 +1,16 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\ClasesInstanciables.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\Consola\obj\Debug\Consola.pdb

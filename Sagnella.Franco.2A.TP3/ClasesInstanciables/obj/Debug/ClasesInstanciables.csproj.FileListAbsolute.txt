@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\ClassLibrary1.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
