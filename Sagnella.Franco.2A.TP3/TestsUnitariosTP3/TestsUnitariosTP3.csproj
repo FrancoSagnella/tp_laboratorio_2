@@ -60,13 +60,13 @@
       <Project>{bc050eb8-24e2-4776-ae5a-54e8df7265bb}</Project>
       <Name>Archivos</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ClasesAbstractas\ClasesAbstractas.csproj">
+      <Project>{2b3b0507-0882-41f3-91d2-bc61cbb29fb4}</Project>
+      <Name>ClasesAbstractas</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ClasesInstanciables\ClasesInstanciables.csproj">
       <Project>{947aae17-2178-463c-8a53-185ebc63aced}</Project>
       <Name>ClasesInstanciables</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary1\ClasesAbstractas.csproj">
-      <Project>{2b3b0507-0882-41f3-91d2-bc61cbb29fb4}</Project>
-      <Name>ClasesAbstractas</Name>
     </ProjectReference>
     <ProjectReference Include="..\Excepciones\Excepciones.csproj">
       <Project>{7c2664a8-67e6-44c4-af9c-3466cb7f5d7d}</Project>

@@ -1,10 +1,10 @@
 ﻿Clases de PROGRAMACION dictadas por:
-Nombre Completo: Juarez, Roberto
+Nombre Completo: Lopez, Juan
 Nacionalidad: Argentino
-Legajo: 2
+Legajo: 1
 Clases del dia: 
-Programacion
 SPD
+Programacion
 
 
 ALUMNOS:

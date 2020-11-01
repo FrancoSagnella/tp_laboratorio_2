@@ -52,7 +52,7 @@
       <Project>{bc050eb8-24e2-4776-ae5a-54e8df7265bb}</Project>
       <Name>Archivos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary1\ClasesAbstractas.csproj">
+    <ProjectReference Include="..\ClasesAbstractas\ClasesAbstractas.csproj">
       <Project>{2b3b0507-0882-41f3-91d2-bc61cbb29fb4}</Project>
       <Name>ClasesAbstractas</Name>
     </ProjectReference>
