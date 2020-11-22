@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\bin\Debug\Delegados.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\bin\Debug\Delegados.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\obj\Debug\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\obj\Debug\Delegados.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\obj\Debug\Delegados.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\Delegados\obj\Debug\Delegados.csprojAssemblyReference.cache

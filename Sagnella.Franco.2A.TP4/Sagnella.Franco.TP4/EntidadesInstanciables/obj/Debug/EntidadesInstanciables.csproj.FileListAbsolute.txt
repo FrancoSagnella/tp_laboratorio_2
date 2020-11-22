@@ -1,0 +1,12 @@
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Franco\Desktop\Programacion laboratorio 2\Soluciones\tp_laboratorio_2\Sagnella.Franco.2A.TP4\Sagnella.Franco.TP4\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll.config
