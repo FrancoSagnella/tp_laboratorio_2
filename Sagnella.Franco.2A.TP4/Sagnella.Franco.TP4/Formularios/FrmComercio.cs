@@ -51,9 +51,16 @@ namespace Formularios
         /// <param name="e"></param>
         private void FrmComercio_Load(object sender, EventArgs e)
         {
-            this.hilo.Start();
-            this.grillaInventario.DataSource = dt;
-            this.manejadorBD.da.Fill(dt);
+            try
+            {
+                this.hilo.Start();
+                this.grillaInventario.DataSource = dt;
+                this.manejadorBD.da.Fill(dt);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
         /// <summary>
         /// Configura el control DataGridViewer
@@ -158,8 +165,16 @@ namespace Formularios
         /// <param name="e"></param>
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            int indice = this.grillaInventario.CurrentRow.Index;
-            this.dt.Rows[indice].Delete();
+            try
+            {
+                int indice = this.grillaInventario.CurrentRow.Index;
+                this.dt.Rows[indice].Delete();
+                this.manejadorBD.da.Update(dt);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
         /// <summary>
         /// Crea y abre un form con el carrito de compra
@@ -250,8 +265,15 @@ namespace Formularios
         /// <param name="e"></param>
         private void FrmComercio_FormClosing(object sender, FormClosingEventArgs e)
         {
-            this.hilo.Abort();
-            this.manejadorBD.da.Update(dt);
+            try
+            {
+                this.hilo.Abort();
+                this.manejadorBD.da.Update(dt);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
         /// <summary>
         /// Metodo que se ejecuta en el hilo secundario para mostrar
